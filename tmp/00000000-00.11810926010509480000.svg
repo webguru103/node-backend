@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+    <g id="art">
+        <path id="border" d="M250,500C112.2,500,0,387.8,0,250S112.2,0,250,0s250,112.2,250,250S387.8,500,250,500z" style="fill: #11b3ff"/>
+        <path id="background" d="M250,50C139.8,50,50,139.8,50,250s89.8,200,200,200s200-89.8,200-200S360.2,50,250,50z" style="fill: #ffffff"/>
+        <svg version="1.1" id="homekeylogo" x="146" y="135" width="220" height="220" viewBox="0 0 840 1200" style="enable-background:new 0 0 840 1200;" xml:space="preserve">
+            <style type="text/css">.st0{fill:#0F1522;}.st1{fill:#1D2755;}.st2{fill:#2D2F78;}.st3{fill:#33429A;}.st4{fill:#C4C9E5;}.st5{fill:#7A85C1;}.st6{fill:#4554A4;}.st7{fill:#94C7EB;}.st8{fill:#83D1F5;}.st9{fill:#BDDCF3;}.st10{fill:#B3E3F9;}.st11{fill:#58C0EE;}.st12{fill:#43B2E5;}.st13{fill:#71B1E1;}.st14{fill:#488ECB;}.st15{fill:#9E9E9E;}</style>
+            <g>
+                <polygon class="st0" points="512.56,164.59 765.05,310.36 512.56,456.13 "/>
+                <polygon class="st1" points="765.05,601.9 512.56,456.13 765.05,310.36 "/>
+                <polygon class="st2" points="512.56,456.13 765.05,601.9 512.56,747.68 "/>
+                <polygon class="st3" points="765.05,893.46 512.56,747.68 765.05,601.9 "/>
+                <polygon class="st4" points="512.56,747.68 765.05,893.46 512.56,1039.23 "/>
+                <polygon class="st5" points="512.56,1039.23 260.08,893.46 512.56,747.68 "/>
+                <polygon class="st6" points="260.08,893.46 512.56,1039.23 260.08,1185 "/>
+                <polygon class="st7" points="133.21,237.14 386,383.03 7.59,456.12 "/>
+                <polygon class="st8" points="260.07,601.9 7.59,456.12 386,383.03 "/>
+                <polygon class="st9" points="259.44,18.45 512.24,164.34 133.2,237.14 "/>
+                <polygon class="st10" points="385.99,383.03 133.21,237.14 512.23,164.34 "/>
+                <polygon class="st11" points="7.59,456.13 260.08,601.9 7.59,747.68 "/>
+                <polygon class="st12" points="260.08,893.46 7.59,747.68 260.08,601.9 "/>
+                <polygon class="st13" points="7.59,747.68 260.08,893.46 7.59,1039.23 "/>
+                <polygon class="st14" points="260.08,1185 7.59,1039.23 260.08,893.46 "/>
+            </g>
+            <g>
+                <path class="st15" d="M786.92,314.81h-7.51v-3.81h19.38v3.81h-7.51v20.7h-4.37V314.81z"/>
+                <path class="st15" d="M804.1,311.01h6.82l6.37,17.41h0.11l6.3-17.41h6.85v24.51h-4.33v-19.7h-0.07l-7.44,19.7h-3.05l-7.34-19.7h-0.07v19.7h-4.15V311.01z"/>
+            </g>
+        </svg>
+        <image id="image" x="97" y="97" width="306" height="306" xlink:href="" preserveAspectRatio="xMidYMid slice"/>
+        <path id="mask" d="M250,9C116.9,9,9,116.9,9,250s107.9,241,241,241s241-107.9,241-241S383.1,9,250,9z M250,406.5c-86.4,0-156.5-70.1-156.5-156.5S163.6,93.5,250,93.5S406.5,163.6,406.5,250S336.4,406.5,250,406.5z" style="fill: #ffffff"/>
+        <path id="overlay" d="M250,89c-88.9,0-161,72.1-161,161s72.1,161,161,161s161-72.1,161-161S338.9,89,250,89z M250,402c-83.9,0-152-68.1-152-152S166.1,98,250,98s152,68.1,152,152S333.9,402,250,402z" style="fill: #11b3ff"/>
+    </g>
+    <g id="data">
+        <path d="M222.634293,37.756935 A214.000009,213.999996 0 0,0 195.717926,42.998898" style="fill: none; stroke: #11b3ff; stroke-width: 16.00; stroke-linecap: round; stroke-linejoin: round;"/>
+        <path d="M195.717926,42.998898 A213.999996,214.000000 0 0,0 169.692856,51.639812" style="fill: none; stroke: #11b3ff; stroke-width: 16.00; stroke-linecap: round; stroke-linejoin: round;"/>
+        <path d="M169.692856,51.639812 A214.000000,213.999998 0 0,0 144.986450,63.537796" style="fill: none; stroke: #11b3ff; stroke-width: 16.00; stroke-linecap: round; stroke-linejoin: round;"/>
+        <path d="M144.986450,63.537796 A213.999998,214.000001 0 0,0 122.004349,78.497482" style="fill: none; stroke: #11b3ff; stroke-width: 16.00; stroke-linecap: round; stroke-linejoin: round;"/>
+        <path d="M122.004349,78.497482 A214.000001,214.000002 0 0,0 101.123932,96.273239" style="fill: none; stroke: #11b3ff; stroke-width: 16.00; stroke-linecap: round; stroke-linejoin: round;"/>
+        <path d="M101.123932,96.273239 A214.000002,213.999999 0 0,0 82.688065,116.573181" style="fill: none; stroke: #11b3ff; stroke-width: 16.00; stroke-linecap: round; stroke-linejoin: round;"/>
+        <path d="M82.688065,116.573181 A213.999999,214.000004 0 0,0 66.999451,139.063980" style="fill: none; stroke: #11b3ff; stroke-width: 16.00; stroke-linecap: round; stroke-linejoin: round;"/>
+        <path d="M66.999451,139.063980 A214.000004,213.999997 0 0,0 54.315697,163.376358" style="fill: none; stroke: #11b3ff; stroke-width: 16.00; stroke-linecap: round; stroke-linejoin: round;"/>
+        <path d="M54.315697,163.376358 A213.999997,214.000001 0 0,0 44.845078,189.111099" style="fill: none; stroke: #11b3ff; stroke-width: 16.00; stroke-linecap: round; stroke-linejoin: round;"/>
+        <path d="M44.845078,189.111099 A214.000001,213.999995 0 0,0 38.743095,215.845627" style="fill: none; stroke: #11b3ff; stroke-width: 16.00; stroke-linecap: round; stroke-linejoin: round;"/>
+        <path d="M38.743095,215.845627 A213.999995,213.999995 0 0,0 36.109947,243.140961" style="fill: none; stroke: #11b3ff; stroke-width: 16.00; stroke-linecap: round; stroke-linejoin: round;"/>
+        <path d="M36.109947,243.140961 A213.999995,214.000008 0 0,0 36.988869,270.548920" style="fill: none; stroke: #11b3ff; stroke-width: 16.00; stroke-linecap: round; stroke-linejoin: round;"/>
+        <line x1="36.988869" y1="270.54892" x2="36.998867" y2="270.55893" style="fill: none; stroke: #11b3ff; stroke-width: 16.00; stroke-linecap: round; stroke-linejoin: round;"/>
+        <path d="M49.167755,323.908112 A213.999999,214.000012 0 0,0 60.267750,348.983215" style="fill: none; stroke: #78cbf3; stroke-width: 16.00; stroke-linecap: round; stroke-linejoin: round;"/>
+        <line x1="60.26775" y1="348.98322" x2="60.277748" y2="348.99323" style="fill: none; stroke: #78cbf3; stroke-width: 16.00; stroke-linecap: round; stroke-linejoin: round;"/>
+        <line x1="91.580513" y1="393.87241" x2="91.590515" y2="393.88242" style="fill: none; stroke: #11b3ff; stroke-width: 16.00; stroke-linecap: round; stroke-linejoin: round;"/>
+        <line x1="133.25552" y1="429.35086" x2="133.26552" y2="429.36087" style="fill: none; stroke: #11b3ff; stroke-width: 16.00; stroke-linecap: round; stroke-linejoin: round;"/>
+        <path d="M182.566833,453.097931 A214.000003,213.999990 0 0,0 209.092056,460.053650" style="fill: none; stroke: #3f83c4; stroke-width: 16.00; stroke-linecap: round; stroke-linejoin: round;"/>
+        <path d="M209.092056,460.053650 A213.999990,213.999989 0 0,0 236.288971,463.560303" style="fill: none; stroke: #3f83c4; stroke-width: 16.00; stroke-linecap: round; stroke-linejoin: round;"/>
+        <line x1="236.28897" y1="463.5603" x2="236.29897" y2="463.57031" style="fill: none; stroke: #3f83c4; stroke-width: 16.00; stroke-linecap: round; stroke-linejoin: round;"/>
+        <line x1="317.43317" y1="453.09793" x2="317.44318" y2="453.10794" style="fill: none; stroke: #3f83c4; stroke-width: 16.00; stroke-linecap: round; stroke-linejoin: round;"/>
+        <path d="M366.744446,429.350861 A213.999993,213.999984 0 0,0 388.720856,412.949432" style="fill: none; stroke: #11b3ff; stroke-width: 16.00; stroke-linecap: round; stroke-linejoin: round;"/>
+        <line x1="388.72086" y1="412.94943" x2="388.73087" y2="412.95944" style="fill: none; stroke: #11b3ff; stroke-width: 16.00; stroke-linecap: round; stroke-linejoin: round;"/>
+        <path d="M425.516876,372.432983 A214.000022,214.000026 0 0,0 439.732269,348.983215" style="fill: none; stroke: #3f83c4; stroke-width: 16.00; stroke-linecap: round; stroke-linejoin: round;"/>
+        <path d="M439.732269,348.983215 A214.000026,213.999999 0 0,0 450.832245,323.908112" style="fill: none; stroke: #3f83c4; stroke-width: 16.00; stroke-linecap: round; stroke-linejoin: round;"/>
+        <line x1="450.83224" y1="323.90811" x2="450.84225" y2="323.91812" style="fill: none; stroke: #3f83c4; stroke-width: 16.00; stroke-linecap: round; stroke-linejoin: round;"/>
+        <line x1="461.2569" y1="215.84563" x2="461.26691" y2="215.85562" style="fill: none; stroke: #11b3ff; stroke-width: 16.00; stroke-linecap: round; stroke-linejoin: round;"/>
+        <line x1="304.2821" y1="42.998898" x2="304.29211" y2="43.008896" style="fill: none; stroke: #3f83c4; stroke-width: 16.00; stroke-linecap: round; stroke-linejoin: round;"/>
+        <line x1="250" y1="62" x2="250.00999" y2="62.009998" style="fill: none; stroke: #3f83c4; stroke-width: 16.00; stroke-linecap: round; stroke-linejoin: round;"/>
+        <line x1="146.26767" y1="93.208412" x2="146.27766" y2="93.218414" style="fill: none; stroke: #78cbf3; stroke-width: 16.00; stroke-linecap: round; stroke-linejoin: round;"/>
+        <line x1="68.113068" y1="202.44853" x2="68.12307" y2="202.45853" style="fill: none; stroke: #3f83c4; stroke-width: 16.00; stroke-linecap: round; stroke-linejoin: round;"/>
+        <path d="M65.127258,284.147736 A187.999996,187.999999 0 0,0 72.069321,310.701508" style="fill: none; stroke: #78cbf3; stroke-width: 16.00; stroke-linecap: round; stroke-linejoin: round;"/>
+        <line x1="72.069321" y1="310.70151" x2="72.079323" y2="310.71152" style="fill: none; stroke: #78cbf3; stroke-width: 16.00; stroke-linecap: round; stroke-linejoin: round;"/>
+        <path d="M97.101532,359.389465 A187.999991,188.000013 0 0,0 114.658150,380.485962" style="fill: none; stroke: #11b3ff; stroke-width: 16.00; stroke-linecap: round; stroke-linejoin: round;"/>
+        <path d="M114.658150,380.485962 A188.000013,187.999997 0 0,0 135.099335,398.801331" style="fill: none; stroke: #11b3ff; stroke-width: 16.00; stroke-linecap: round; stroke-linejoin: round;"/>
+        <path d="M135.099335,398.801331 A187.999997,187.999996 0 0,0 157.989441,413.945282" style="fill: none; stroke: #11b3ff; stroke-width: 16.00; stroke-linecap: round; stroke-linejoin: round;"/>
+        <path d="M157.989441,413.945282 A187.999996,188.000004 0 0,0 182.840591,425.595032" style="fill: none; stroke: #11b3ff; stroke-width: 16.00; stroke-linecap: round; stroke-linejoin: round;"/>
+        <line x1="182.84059" y1="425.59503" x2="182.85059" y2="425.60504" style="fill: none; stroke: #11b3ff; stroke-width: 16.00; stroke-linecap: round; stroke-linejoin: round;"/>
+        <path d="M236.276886,437.498474 A188.000004,188.000002 0 0,0 263.723083,437.498474" style="fill: none; stroke: #3f83c4; stroke-width: 16.00; stroke-linecap: round; stroke-linejoin: round;"/>
+        <path d="M263.723083,437.498474 A188.000002,187.999998 0 0,0 290.876892,433.502258" style="fill: none; stroke: #3f83c4; stroke-width: 16.00; stroke-linecap: round; stroke-linejoin: round;"/>
+        <line x1="290.87689" y1="433.50226" x2="290.8869" y2="433.51227" style="fill: none; stroke: #3f83c4; stroke-width: 16.00; stroke-linecap: round; stroke-linejoin: round;"/>
+        <path d="M385.341858,380.485962 A188.000013,187.999991 0 0,0 402.898468,359.389465" style="fill: none; stroke: #78cbf3; stroke-width: 16.00; stroke-linecap: round; stroke-linejoin: round;"/>
+        <line x1="402.89847" y1="359.38947" x2="402.90848" y2="359.39948" style="fill: none; stroke: #78cbf3; stroke-width: 16.00; stroke-linecap: round; stroke-linejoin: round;"/>
+        <path d="M427.930664,310.701508 A187.999985,188.000026 0 0,0 434.872772,284.147736" style="fill: none; stroke: #3f83c4; stroke-width: 16.00; stroke-linecap: round; stroke-linejoin: round;"/>
+        <path d="M434.872772,284.147736 A188.000026,187.999998 0 0,0 437.874573,256.866150" style="fill: none; stroke: #3f83c4; stroke-width: 16.00; stroke-linecap: round; stroke-linejoin: round;"/>
+        <line x1="437.87457" y1="256.86615" x2="437.88458" y2="256.87616" style="fill: none; stroke: #3f83c4; stroke-width: 16.00; stroke-linecap: round; stroke-linejoin: round;"/>
+        <line x1="375.45593" y1="109.98283" x2="375.46594" y2="109.99283" style="fill: none; stroke: #78cbf3; stroke-width: 16.00; stroke-linecap: round; stroke-linejoin: round;"/>
+        <line x1="329.79785" y1="79.775734" x2="329.80786" y2="79.785736" style="fill: none; stroke: #11b3ff; stroke-width: 16.00; stroke-linecap: round; stroke-linejoin: round;"/>
+    </g>
+</svg>
+

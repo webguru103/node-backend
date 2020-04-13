@@ -1,0 +1,45 @@
+version: 0.2
+
+env:
+  variables:
+    NODE_ENV: 'production'
+#   #parameter-store:
+#      # key: "value"
+#      # key: "value"
+
+phases:
+  install:
+    runtime-versions:
+      nodejs: 10
+      docker: 18
+    commands:
+      - printenv
+      - echo `which apt-get`
+      - curl -sL https://deb.nodesource.com/setup_10.x | bash -
+      - apt-get install nodejs
+  pre_build:
+    commands:
+      - npm i -g underscore-cli
+      # - export IMAGE_TAG=$(cat package.json| underscore extract version | sed 's/"//g')
+      - echo Logging in to Amazon ECR...
+      - $(aws ecr get-login --no-include-email --region us-east-1)
+      # XXX: workaround for no submodule support for codepipeline
+      - git clone https://bitbucket.org/quikkly/python-sdk.git quikkly/python-sdk
+      - cd ./quikkly/python-sdk && git reset --hard 426e384 && cd ../../ # v3.4.8
+  build:
+    commands:
+      - echo Build started on `date`
+      - echo Building the Docker image...
+      - docker build -t $IMAGE_REPO_LOCATION/$IMAGE_REPO_NAME:staging .
+      - docker tag $IMAGE_REPO_LOCATION/$IMAGE_REPO_NAME:staging $IMAGE_REPO_LOCATION/$IMAGE_REPO_NAME:latest
+  post_build:
+    commands:
+      - echo Build completed on `date`
+      - echo Pushing the Docker image...
+      - docker push $IMAGE_REPO_LOCATION/$IMAGE_REPO_NAME:staging
+      - docker push $IMAGE_REPO_LOCATION/$IMAGE_REPO_NAME:latest
+      - printf '[{"name":"homekey-api","imageUri":"%s"}]' $IMAGE_REPO_LOCATION/$IMAGE_REPO_NAME:staging > imagedefinitions.json
+artifacts:
+  files:
+    - '**/*'
+

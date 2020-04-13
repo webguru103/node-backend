@@ -1,0 +1,16 @@
+.idea/
+__pycache__
+*.pyc
+dist/
+*.egg-info
+*.tar.gz
+
+# Avoid committing native lib
+*.so
+*.dylib
+*.zip
+*.h
+native/
+deleteme/
+*blueprint.json
+.pytest_cache/

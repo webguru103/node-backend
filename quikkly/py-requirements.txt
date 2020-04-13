@@ -1,0 +1,2 @@
+quikkly-python-sdk==3.4.8
+
