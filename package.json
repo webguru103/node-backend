@@ -27,7 +27,7 @@
     "await-to-js": "^2.0.1",
     "aws-sdk": "^2.347.0",
     "babel-polyfill": "^6.26.0",
-    "bcrypt": "^3.0.1",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.18.3",
     "commander": "^2.19.0",
     "cors": "^2.8.4",
